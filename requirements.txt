@@ -5,3 +5,4 @@ matplotlib==3.3.4
 seaborn==0.11.1
 pandas_datareader==0.10.0
 pyarrow==9.0.0
+openpyxl==3.07
