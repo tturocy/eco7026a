@@ -1,0 +1,201 @@
+session_id,participant_id,gender,age,countryborn,countrynow,department,degree,timeuea
+20210625_1400,giaw6638,M,25,India,United Kingdom,MED,MA/MSc,5th+
+20210625_1400,ty10jr1q,F,20,United Kingdom,United Kingdom,DEV,BSc,2nd
+20210625_1400,yrmtcn62,M,21,Brunei,United Kingdom,ECO,BSc,3rd
+20210625_1400,duxn23dk,F,21,United Kingdom,United Kingdom,PHA,MA/MSc,2nd
+20210628_1000,mh9jvilu,F,23,United Kingdom,United Kingdom,,Other,5th+
+20210628_1000,kp0napa4,M,48,United Kingdom,United Kingdom,AMA,BSc,2nd
+20210628_1000,a3an30lg,F,19,United Kingdom,United Kingdom,ECO,BSc,1st
+20210628_1000,zw36ul8j,M,40,United Kingdom,United Kingdom,PPL,BSc,3rd
+20210628_1000,qfx1xiey,F,20,United Kingdom,United Kingdom,PSY,BSc,3rd
+20210628_1000,l83ddudz,F,21,France,United Kingdom,PHA,BSc,3rd
+20210628_1000,amoaaj9x,M,25,United Kingdom,United Kingdom,MED,BSc,5th+
+20210628_1000,owzo4wwo,F,23,Vietnam,Vietnam,ECO,BSc,3rd
+20210628_1200,wh3zb82m,M,44,Syria,Syria,PPL,PhD,1st
+20210628_1200,8w3btk72,M,21,United Kingdom,United Kingdom,DEV,BSc,3rd
+20210628_1200,oumpjj89,F,21,United Kingdom,United Kingdom,NBS,BSc,3rd
+20210628_1200,x73zfae3,F,21,United Kingdom,United Kingdom,PSY,BSc,3rd
+20210628_1200,55tkeh2g,M,20,United Kingdom,United Kingdom,HIS,BSc,2nd
+20210628_1200,owuewxi2,F,23,Hong Kong,United Kingdom,PHA,PGDip,5th+
+20210628_1200,sbmkh1vf,M,21,United Kingdom,United Kingdom,ENV,BSc,3rd
+20210628_1200,lm9eu726,M,20,United Kingdom,United Kingdom,ECO,BSc,1st
+20210628_1200,yfmyonpn,M,21,United Kingdom,United Kingdom,NBS,BSc,3rd
+20210628_1200,bwjrzusv,F,20,United Kingdom,United Kingdom,NBS,BSc,2nd
+20210628_1400,cpgmvfnm,F,20,United Kingdom,United Kingdom,ECO,BSc,1st
+20210628_1400,o9o05hu1,F,25,India,India,AMA,BSc,2nd
+20210628_1400,h8m28kat,F,20,Nigeria,Nigeria,NBS,BSc,2nd
+20210628_1400,5sc4ncpy,F,20,United Kingdom,United Kingdom,ECO,BSc,2nd
+20210628_1400,xio1kk58,F,20,Nigeria,United Kingdom,BIO,BSc,3rd
+20210628_1400,twsriyk7,M,28,United States,United Kingdom,SWK,MA/MSc,2nd
+20210628_1400,nnri11b7,M,23,Philippines,United Kingdom,CMP,BSc,4th
+20210628_1400,yjzfuu2h,O,28,Japan,United Kingdom,PPL,PhD,2nd
+20210628_1400,3n62rgd0,M,18,United Kingdom,United Kingdom,ECO,BSc,1st
+20210628_1400,9f99a2hb,F,24,United Kingdom,United Kingdom,MED,BSc,5th+
+20210628_1600,zu809ozq,M,19,China,China,NBS,BSc,2nd
+20210628_1600,ji7tr1ce,,20,Sweden,United Kingdom,,Staff,2nd
+20210628_1600,mcywebaj,M,19,United Kingdom,United Kingdom,ECO,BSc,1st
+20210628_1600,mffpnq55,F,21,United Kingdom,United Kingdom,ENV,BSc,3rd
+20210628_1600,qhbw7gan,M,23,United Kingdom,United Kingdom,HIS,MA/MSc,5th+
+20210628_1600,gw7ncvdt,F,22,Malaysia,United Kingdom,AMA,BSc,3rd
+20210628_1600,djzpq5f3,F,19,Nigeria,United Kingdom,PPL,BSc,1st
+20210630_1000,8hdqutwb,F,24,United Kingdom,United Kingdom,MED,BSc,5th+
+20210630_1000,3zofwepw,F,20,Cyprus,Cyprus,CHE,BSc,3rd
+20210630_1000,72xz8gcz,F,24,United Kingdom,United Kingdom,MED,BSc,5th+
+20210630_1000,rzzn1i8f,F,21,India,United Kingdom,MED,BSc,3rd
+20210630_1000,00g32yc1,M,23,United Kingdom,United Kingdom,ECO,MA/MSc,5th+
+20210630_1000,6u6fnn44,M,22,Norway,United Kingdom,,,
+20210630_1000,qnd60n7v,F,21,United Kingdom,United Kingdom,ENV,BSc,3rd
+20210630_1000,n0cakvnn,F,22,Lithuania,Lithuania,ECO,BSc,3rd
+20210630_1000,eay5gfc3,F,21,United Kingdom,United Kingdom,BIO,BSc,2nd
+20210630_1000,wtxzvb4e,F,21,United Kingdom,United Kingdom,PHA,MA/MSc,4th
+20210630_1000,ua20fd02,F,21,India,India,MED,BSc,3rd
+20210630_1000,fqh1ix42,M,20,United Kingdom,United Kingdom,CHE,BSc,2nd
+20210630_1130,j7dkgory,,21,United Kingdom,United Kingdom,ECO,BSc,3rd
+20210630_1130,i5jvwq5q,F,21,Spain,United Kingdom,LAW,BSc,3rd
+20210630_1130,5r9gjqy4,F,19,Portugal,United Kingdom,ECO,BSc,1st
+20210630_1130,e7ap89iz,F,20,Cyprus,Cyprus,SCI,BSc,2nd
+20210630_1130,7femyonk,M,20,United Kingdom,United Kingdom,PPL,BSc,2nd
+20210630_1130,co1khwiy,F,21,Nigeria,United Kingdom,ECO,BSc,3rd
+20210630_1130,su7mxpj7,F,20,United Kingdom,United Kingdom,AMA,BSc,2nd
+20210630_1300,adz16f2y,F,21,United Kingdom,United Kingdom,NBS,BSc,3rd
+20210630_1300,haf3qpec,M,22,Cyprus,Cyprus,LAW,BSc,3rd
+20210630_1300,tg70dmp8,F,25,United Kingdom,United Kingdom,DEV,MA/MSc,1st
+20210630_1300,3d9mvdzz,F,55,United Kingdom,United Kingdom,PPL,BSc,2nd
+20210630_1300,ot5na0b9,F,25,China,China,,,4th
+20210630_1300,zxg75c8y,F,24,United Kingdom,United Kingdom,ECO,BSc,5th+
+20210630_1300,xieg68g9,F,20,United Kingdom,United Kingdom,HSC,BSc,3rd
+20210630_1430,b0370bjl,M,24,Malaysia,Malaysia,,Staff,5th+
+20210630_1430,sjgtn9qk,M,21,Taiwan,Taiwan,CMP,BSc,4th
+20210630_1430,fxky1ye6,F,32,United Kingdom,United Kingdom,IIH,MA/MSc,2nd
+20210630_1430,hokl19im,F,29,United Kingdom,United Kingdom,BIO,PhD,5th+
+20210630_1430,aqcsvorl,M,20,United Kingdom,United Kingdom,ECO,BSc,3rd
+20210630_1430,zi6i2c9u,M,21,Vietnam,United Kingdom,MED,BSc,3rd
+20210701_1000,n594ys0i,F,22,Latvia,Latvia,NBS,MA/MSc,4th
+20210701_1000,hby5m5ik,M,22,United Kingdom,United Kingdom,CMP,BSc,
+20210701_1000,45o6pk7j,F,29,France,United Kingdom,DEV,PhD,4th
+20210701_1000,wu86use2,F,19,Philippines,United Kingdom,NBS,BSc,2nd
+20210701_1130,gg29ns20,F,20,Spain,United Kingdom,NBS,BSc,2nd
+20210701_1130,2mlym5h3,F,20,United States,United Kingdom,PPL,BSc,2nd
+20210701_1130,a0g4ni40,M,21,United Kingdom,United Kingdom,LAW,BSc,3rd
+20210701_1130,tpa9df6u,F,21,Hong Kong,United Kingdom,NBS,BSc,3rd
+20210702_1300,uel5pire,M,20,Portugal,United Kingdom,ECO,BSc,2nd
+20210702_1300,aiy9pkbx,M,20,United Kingdom,United Kingdom,,Other,4th
+20210702_1300,td1cwjdp,M,25,South Africa,South Africa,HSC,BSc,3rd
+20210702_1300,xt7meys4,F,23,Norway,Norway,NBS,BSc,3rd
+20210702_1300,d3v22y45,F,22,Lithuania,United Kingdom,HIS,BSc,3rd
+20210702_1300,0uviu3c8,F,22,United Kingdom,United Kingdom,DEV,BSc,3rd
+20210702_1300,2nb9zfb7,F,21,United Kingdom,United Kingdom,ECO,BSc,
+20210702_1300,q0ffsac5,F,25,Latvia,Latvia,,Other,3rd
+20210702_1300,9a30ip35,M,21,Hong Kong,Hong Kong,HSC,BSc,2nd
+20210702_1300,6vlteoij,F,24,Hong Kong,United Kingdom,,,
+20210702_1300,lfrzjoj3,F,21,United Kingdom,United Kingdom,PHY,BSc,3rd
+20210702_1300,21otsptc,F,26,Nepal,Nepal,DEV,MA/MSc,
+20210702_1430,w884g810,F,23,China,China,,,
+20210702_1430,zmaoyq1i,F,21,,United Kingdom,NBS,BSc,2nd
+20210702_1430,8t5zwjgh,F,20,United Kingdom,United Kingdom,HSC,BSc,2nd
+20210702_1430,ocezwog3,M,22,United Kingdom,United Kingdom,ECO,BSc,3rd
+20210702_1430,gad5ovep,F,21,Lithuania,United Kingdom,BIO,BSc,3rd
+20210702_1430,kbtjqe2e,F,21,Malaysia,United Kingdom,HSC,BSc,1st
+20210702_1430,gq9fzq9w,M,21,Denmark,United Kingdom,ENV,BSc,3rd
+20210702_1430,ot30actm,M,19,United Kingdom,United Kingdom,NBS,BSc,2nd
+20210702_1430,6kwe5o6c,F,51,United Kingdom,United Kingdom,HIS,BSc,1st
+20210702_1430,atma1qcx,M,51,United Kingdom,United Kingdom,NBS,MA/MSc,5th+
+20210713_1300,9bcof7wo,M,25,United Kingdom,United Kingdom,ENV,BSc,2nd
+20210713_1300,o11c7at5,F,20,United Kingdom,United Kingdom,LDC,BSc,2nd
+20210713_1300,ckkobwom,M,21,United Kingdom,United Kingdom,ECO,BSc,3rd
+20210713_1300,mbc73hwl,M,24,Jamaica,United Kingdom,CMP,BSc,5th+
+20210713_1430,p6guj6oc,M,22,United Kingdom,United Kingdom,PHA,MA/MSc,4th
+20210713_1430,c463oa0l,F,21,Kenya,United Kingdom,PSY,BSc,3rd
+20210713_1430,yvv61syj,M,25,Vietnam,United Kingdom,NBS,MA/MSc,2nd
+20210713_1430,xjl7tb8y,F,19,United Kingdom,United Kingdom,ENV,BSc,1st
+20210713_1430,rzx15z0z,F,19,United Kingdom,United Kingdom,SWK,BSc,1st
+20210714_1000,xnn4ylqp,M,24,Vietnam,Vietnam,PHA,MA/MSc,5th+
+20210714_1000,thvb1r44,F,20,United Kingdom,United Kingdom,ECO,BSc,2nd
+20210714_1000,lwxingsi,F,21,United Kingdom,United Kingdom,AMA,BSc,2nd
+20210714_1130,fbkvcwj3,M,21,United Kingdom,United Kingdom,ENV,BSc,3rd
+20210714_1130,0ozxf8xh,M,20,United Kingdom,United Kingdom,NBS,BSc,2nd
+20211006_1000,djg59bu2,M,21,Brazil,United Kingdom,,,3rd
+20211006_1000,d84vlama,M,19,United Kingdom,United Kingdom,ECO,BSc,1st
+20211006_1000,70uhesln,M,19,United Kingdom,United Kingdom,HSC,BSc,2nd
+20211006_1000,34gfep4y,M,20,United Kingdom,United Kingdom,,,3rd
+20211006_1000,ir9i1zyd,M,20,United Kingdom,United Kingdom,,,3rd
+20211006_1000,nq3h20qw,F,20,China,United Kingdom,PPL,BSc,1st
+20211006_1000,bxvbfy2c,F,19,Hong Kong,United Kingdom,LAW,BSc,1st
+20211006_1000,cw8zvr2h,M,20,United Kingdom,United Kingdom,LAW,BSc,3rd
+20211006_1000,9xmkmjqn,F,20,Portugal,United Kingdom,ECO,BSc,3rd
+20211006_1000,lw7kgktf,F,27,India,India,DEV,MA/MSc,1st
+20211006_1130,nxnxskin,F,23,Mexico,Switzerland,PPL,BSc,1st
+20211006_1130,7pz0apon,F,22,Cyprus,Cyprus,ENV,BSc,4th
+20211006_1130,u9cxpv1u,M,27,United Kingdom,United Kingdom,ENG,BSc,1st
+20211006_1130,6xqxdjpw,M,23,United Kingdom,United Kingdom,DEV,MA/MSc,1st
+20211006_1130,7c94vcx4,M,21,Italy,United Kingdom,CMP,BSc,1st
+20211006_1130,jdkamnqz,F,23,United Kingdom,United Kingdom,LDC,BSc,1st
+20211006_1130,5brc09bu,M,18,United Kingdom,United Kingdom,NBS,BSc,1st
+20211006_1130,kxpab5sc,O,22,United Kingdom,United Kingdom,PPL,MA/MSc,4th
+20211006_1130,ll506yx4,F,18,United Kingdom,United Kingdom,EDU,BSc,1st
+20211006_1300,gk9p37a4,F,19,United Kingdom,United Kingdom,LDC,BSc,2nd
+20211006_1300,gjh1vvi8,M,19,Sri Lanka,United Kingdom,MED,BSc,2nd
+20211006_1300,ve26kidg,F,19,Jordan,United Kingdom,LAW,BSc,2nd
+20211006_1300,cdmhvur3,M,30,China,United Kingdom,EDU,PhD,5th+
+20211006_1300,k4kry1g9,F,20,United Kingdom,United Kingdom,ECO,BSc,3rd
+20211006_1300,7y1cg1m5,M,21,Bangladesh,United Kingdom,BIO,BSc,3rd
+20211006_1300,zdv0ikxt,M,21,India,United Kingdom,ECO,BSc,3rd
+20211006_1300,461a2pcv,F,27,United Kingdom,United Kingdom,,Other,5th+
+20211006_1300,znmoz035,F,23,Hong Kong,United Kingdom,MED,BSc,1st
+20211006_1300,ylkga1n5,F,19,United Kingdom,United Kingdom,MED,BSc,2nd
+20211006_1300,yv1cj331,F,18,United Kingdom,United Kingdom,HSC,BSc,1st
+20211006_1300,89i99jlp,F,20,United Kingdom,United Kingdom,HSC,BSc,1st
+20211006_1430,k5qjtrxf,M,18,India,United Kingdom,NBS,BSc,1st
+20211006_1430,kki23sm3,F,20,United Kingdom,United Kingdom,PSY,BSc,2nd
+20211006_1430,ivlmusw9,M,20,United Kingdom,United Kingdom,NBS,BSc,3rd
+20211006_1430,bqqi8g8i,M,19,South Africa,United Kingdom,ECO,BSc,1st
+20211006_1430,uqucl6cz,F,18,Portugal,United Kingdom,NBS,BSc,1st
+20211006_1430,dq31a15z,F,18,Sri Lanka,United Kingdom,MED,BSc,1st
+20211006_1430,xvaeh4uu,F,18,Hong Kong,United Kingdom,HSC,BSc,1st
+20211006_1430,2z3t80j3,F,18,United Kingdom,United Kingdom,EDU,BSc,1st
+20211006_1430,2f3nbwhw,M,18,United Kingdom,United Kingdom,HIS,BSc,1st
+20211006_1430,uve3xn10,F,20,Malaysia,United Kingdom,NBS,BSc,2nd
+20211006_1430,akkimxbz,M,18,Hungary,United Kingdom,BIO,BSc,1st
+20211006_1430,xleira1s,F,20,United Kingdom,United Kingdom,NBS,BSc,2nd
+20211011_1000,lualaqid,F,20,United Kingdom,United Kingdom,MED,BSc,3rd
+20211011_1000,icuf6r3i,M,19,United Kingdom,United Kingdom,ECO,BSc,1st
+20211011_1000,6q4v8zwn,F,22,United Kingdom,United Kingdom,PPL,BSc,2nd
+20211011_1000,91o7t87s,M,20,United Kingdom,United Kingdom,ENV,BSc,3rd
+20211011_1000,tw6ofzo6,F,20,Spain,Spain,BIO,BSc,1st
+20211011_1000,rz20kdvj,F,19,United Kingdom,United Kingdom,LAW,BSc,2nd
+20211011_1000,gz2c6vox,F,23,United Kingdom,United Kingdom,MED,BSc,2nd
+20211011_1200,fkt0idrw,F,18,United Kingdom,United Kingdom,PSY,BSc,1st
+20211011_1200,4nfjsw26,F,21,Cyprus,United Kingdom,MED,BSc,3rd
+20211011_1200,8146ibpz,F,21,United Kingdom,United Kingdom,LDC,BSc,4th
+20211011_1200,oa9qe2uy,F,19,United States,Egypt,PPL,BSc,2nd
+20211011_1200,al37f6iv,F,19,United Kingdom,United Kingdom,,Other,1st
+20211011_1200,x27fok07,M,19,United Kingdom,United Kingdom,NBS,BSc,2nd
+20211011_1200,sh2jndtq,F,18,United Kingdom,United Kingdom,MED,BSc,1st
+20211011_1200,mx2jjjo0,F,24,Hong Kong,United Kingdom,MED,BSc,1st
+20211011_1200,r58np4zf,F,18,United Kingdom,United Kingdom,BIO,BSc,1st
+20211011_1200,suj4f23a,F,20,United Kingdom,United Kingdom,NAT,BSc,2nd
+20211013_1300,igi0kjnb,F,19,United Kingdom,United Kingdom,BIO,MA/MSc,2nd
+20211013_1300,1cnerogk,,20,Spain,United Kingdom,PSY,INTO,1st
+20211013_1300,5qhyejyx,F,18,Nigeria,Nigeria,ECO,BSc,3rd
+20211013_1300,8fkffj19,F,18,United Kingdom,United Kingdom,,BSc,1st
+20211013_1300,8mcbmy3x,M,19,United Kingdom,United Kingdom,MTH,BSc,2nd
+20211013_1300,cv7fojrc,M,23,United Kingdom,United Kingdom,CMP,BSc,1st
+20211013_1300,ce3ju9sq,M,21,United Kingdom,United Kingdom,ENV,BSc,3rd
+20211013_1300,vacatglc,M,21,Latvia,Latvia,LDC,BSc,3rd
+20211013_1500,41xn2qh9,O,18,United Kingdom,United Kingdom,CMP,BSc,1st
+20211013_1500,oh2n10bg,M,19,United Kingdom,United Kingdom,PPL,BSc,2nd
+20211013_1500,q11ysnzk,F,19,United Kingdom,United Kingdom,NBS,BSc,2nd
+20211013_1500,a6oaeycq,F,19,United Kingdom,United Kingdom,LDC,BSc,2nd
+20211013_1500,vt0oite2,M,18,United Kingdom,United Kingdom,ECO,BSc,1st
+20211013_1500,ohbqkpz4,F,21,Denmark,United Kingdom,NMS,BSc,3rd
+20211013_1500,wpfto96w,F,18,United Kingdom,United Kingdom,PSY,BSc,1st
+20211013_1500,rjm9etlc,F,18,United Kingdom,United Kingdom,ECO,BSc,1st
+20211018_1200,4z0umzd2,F,21,Spain,United Kingdom,ECO,BSc,1st
+20211018_1200,towss002,M,22,United Kingdom,United Kingdom,CMP,BSc,4th
+20211018_1200,w7wkpai0,F,22,United Kingdom,United Kingdom,PPL,BSc,4th
+20211018_1200,xi8u6zr6,F,20,United Kingdom,United Kingdom,MED,BSc,3rd
+20211018_1200,sjnia5kz,F,21,United Kingdom,United Kingdom,DEV,BSc,2nd
+20211018_1200,e1u5e0p2,M,20,United Kingdom,United Kingdom,ECO,BSc,3rd
+20211018_1200,3teu8bii,F,20,United Kingdom,United Kingdom,PSY,BSc,2nd
+20211018_1200,uvptgp2n,F,18,United Kingdom,United Kingdom,CMP,BSc,1st
+20211018_1200,oukkjmup,F,24,Norway,United Kingdom,NAT,BSc,2nd
