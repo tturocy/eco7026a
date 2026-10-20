@@ -1,0 +1,174 @@
+treatment,session,participant,gender,age,status,eco_course,residence
+choosing,190515-1,190515_1141_01,F,22.0,BSc,F,Cyprus
+choosing,190515-1,190515_1141_02,F,22.0,BSc,F,
+choosing,190515-1,190515_1141_03,F,23.0,MA/MSc,F,
+choosing,190515-1,190515_1141_04,F,27.0,MA/MSc,F,Guatemala
+choosing,190515-1,190515_1141_05,M,22.0,BSc,F,United Kingdom
+choosing,190515-1,190515_1141_06,F,27.0,MA/MSc,F,Mexico
+choosing,190515-1,190515_1141_07,M,21.0,BSc,T,United Kingdom
+choosing,190515-1,190515_1141_08,F,22.0,MA/MSc,F,United Kingdom
+choosing,190515-1,190515_1141_09,F,21.0,BSc,F,United Kingdom
+choosing,190515-1,190515_1141_10,F,21.0,BSc,F,United Kingdom
+choosing,190515-1,190515_1141_11,F,24.0,MA/MSc,F,United States
+choosing,190515-1,190515_1141_12,F,23.0,BSc,T,China
+choosing,190515-1,190515_1141_13,F,21.0,BSc,F,Hong Kong
+choosing,190515-1,190515_1141_14,F,20.0,BSc,F,United Kingdom
+choosing,190515-1,190515_1141_15,M,25.0,MA/MSc,T,
+choosing,190515-1,190515_1141_16,F,30.0,MA/MSc,F,Zambia
+choosing,190515-1,190515_1141_17,F,21.0,BSc,F,Romania
+choosing,190515-1,190515_1141_18,M,21.0,BSc,T,Tanzania
+choosing,190515-1,190515_1141_19,M,43.0,MA/MSc,F,United Kingdom
+choosing,190515-1,190515_1141_20,M,21.0,BSc,T,United Kingdom
+choosing,190514-0,190514_1055_01,F,23.0,BSc,F,United Kingdom
+choosing,190514-0,190514_1055_02,M,21.0,BSc,F,United Kingdom
+choosing,190514-0,190514_1055_03,F,28.0,MA/MSc,F,Nigeria
+choosing,190514-0,190514_1055_04,M,21.0,BSc,F,United Kingdom
+choosing,190514-0,190514_1055_05,M,23.0,MA/MSc,F,United States
+choosing,190514-0,190514_1055_06,F,27.0,MA/MSc,F,
+choosing,190514-0,190514_1055_07,M,22.0,BSc,T,Malaysia
+choosing,190514-0,190514_1055_08,M,22.0,MA/MSc,F,United Kingdom
+choosing,190514-0,190514_1055_09,M,23.0,BSc,F,United Kingdom
+choosing,190514-0,190514_1055_10,M,21.0,BSc,F,United Kingdom
+choosing,190514-0,190514_1055_11,F,22.0,BSc,T,
+choosing,190514-0,190514_1055_12,F,,MA/MSc,T,
+choosing,190514-0,190514_1055_13,M,27.0,MA/MSc,F,Japan
+choosing,190514-0,190514_1055_14,M,27.0,MA/MSc,T,United Kingdom
+choosing,190514-0,190514_1055_15,M,21.0,BSc,F,United Kingdom
+choosing,190514-0,190514_1055_16,F,21.0,MA/MSc,F,United Kingdom
+choosing,190515-2,190515_1445_01,F,21.0,BSc,F,United Kingdom
+choosing,190515-2,190515_1445_02,F,25.0,MA/MSc,T,Colombia
+choosing,190515-2,190515_1445_03,M,24.0,MA/MSc,T,United Kingdom
+choosing,190515-2,190515_1445_04,F,21.0,BSc,F,United Kingdom
+choosing,190515-2,190515_1445_05,M,21.0,BSc,T,
+choosing,190515-2,190515_1445_06,F,24.0,Other,F,United Kingdom
+choosing,190515-2,190515_1445_07,F,24.0,MA/MSc,,
+choosing,190515-2,190515_1445_08,M,21.0,BSc,T,United Kingdom
+choosing,190515-2,190515_1445_09,M,21.0,BSc,F,United Kingdom
+choosing,190515-2,190515_1445_10,M,21.0,BSc,F,
+choosing,190515-2,190515_1445_11,F,36.0,MA/MSc,F,
+choosing,190515-2,190515_1445_12,F,22.0,BSc,F,Hong Kong
+choosing,190515-2,190515_1445_13,M,21.0,BSc,F,United Kingdom
+choosing,190515-2,190515_1445_14,M,21.0,BSc,F,United Kingdom
+choosing,190515-2,190515_1445_15,F,31.0,MA/MSc,F,United Kingdom
+choosing,190515-2,190515_1445_16,F,24.0,MA/MSc,T,Vietnam
+choosing,190515-2,190515_1445_17,M,22.0,BSc,F,United Kingdom
+choosing,190515-2,190515_1445_18,M,24.0,BSc,F,
+choosing,190515-2,190515_1445_19,M,22.0,BSc,F,United Kingdom
+choosing,190515-2,190515_1445_20,F,22.0,BSc,F,Malaysia
+matching,211208-1,211208_1017_01,M,20.0,BSc,T,United Kingdom
+matching,211208-1,211208_1017_02,M,18.0,BSc,F,United Kingdom
+matching,211208-1,211208_1017_03,F,23.0,BSc,F,United Kingdom
+matching,211207-2,211207_1341_01,F,18.0,BSc,F,United Kingdom
+matching,211207-2,211207_1341_02,F,19.0,,F,United Kingdom
+matching,211207-2,211207_1341_03,M,20.0,BSc,T,United Kingdom
+matching,211207-2,211207_1341_04,F,27.0,MA/MSc,T,Hong Kong
+matching,211207-1,211207_1043_01,M,21.0,BSc,T,United Kingdom
+matching,211207-1,211207_1043_02,F,24.0,BSc,F,United Kingdom
+matching,211207-1,211207_1043_03,F,19.0,BSc,F,Spain
+matching,211207-1,211207_1043_04,F,18.0,BSc,F,United Kingdom
+matching,211207-1,211207_1043_05,M,18.0,BSc,F,
+matching,211207-1,211207_1043_06,M,19.0,BSc,T,United Kingdom
+matching,211207-1,211207_1043_07,F,20.0,BSc,F,United Kingdom
+matching,211125-1,211125_1139_01,M,21.0,BSc,F,United Kingdom
+matching,211125-1,211125_1139_02,F,20.0,BSc,F,United Kingdom
+matching,211125-1,211125_1139_03,M,21.0,BSc,F,United Kingdom
+matching,211125-1,211125_1139_04,F,19.0,BSc,F,United Kingdom
+matching,211125-1,211125_1139_05,M,22.0,BSc,F,United Kingdom
+matching,211209-2,211209_1338_01,M,19.0,BSc,T,United Kingdom
+matching,211209-2,211209_1338_02,F,22.0,BSc,F,United Kingdom
+matching,211209-2,211209_1338_03,M,22.0,MA/MSc,T,United Kingdom
+matching,211209-2,211209_1338_04,M,24.0,BSc,T,United Kingdom
+matching,211209-2,211209_1338_05,F,26.0,MA/MSc,F,India
+matching,211209-2,211209_1338_06,F,21.0,BSc,F,United Kingdom
+matching,211125-2,211125_1448_01,F,,BSc,F,
+matching,211125-2,211125_1448_02,M,18.0,BSc,F,United Kingdom
+matching,211125-2,211125_1448_03,M,21.0,BSc,T,United Kingdom
+matching,211123-1,211123_1024_01,M,20.0,INTO,F,United Kingdom
+matching,211123-1,211123_1024_02,F,19.0,Other,F,United Kingdom
+matching,211123-1,211123_1024_03,F,20.0,BSc,F,United Kingdom
+matching,211123-1,211123_1024_04,M,21.0,BSc,F,United Kingdom
+matching,211123-1,211123_1024_05,M,30.0,PhD,F,United Kingdom
+matching,211123-1,211123_1024_06,F,19.0,BSc,T,United Kingdom
+matching,211123-1,211123_1024_07,M,48.0,PhD,F,United Kingdom
+matching,211123-1,211123_1024_08,M,27.0,BSc,F,United Kingdom
+matching,211123-1,211123_1024_09,F,19.0,Other,F,United Kingdom
+matching,211123-2,211123_1435_01,F,18.0,BSc,F,United Kingdom
+matching,211123-2,211123_1435_02,F,18.0,BSc,F,United Kingdom
+matching,211123-2,211123_1435_03,M,20.0,BSc,F,United Kingdom
+matching,211123-2,211123_1435_04,M,22.0,BSc,F,United Kingdom
+matching,211123-2,211123_1435_05,F,21.0,BSc,F,United Kingdom
+matching,211123-2,211123_1435_06,M,18.0,BSc,F,United Kingdom
+matching,211123-2,211123_1435_07,F,19.0,BSc,F,United Kingdom
+matching,211123-2,211123_1435_08,M,21.0,BSc,F,United Kingdom
+matching,211123-2,211123_1435_09,F,20.0,BSc,F,United Kingdom
+matching,211123-1,211123_1025_01,F,20.0,BSc,F,United Kingdom
+matching,211123-1,211123_1025_02,M,52.0,MA/MSc,F,United Kingdom
+matching,211208-2,211208_1337_01,F,,BSc,F,
+matching,211208-2,211208_1337_02,M,19.0,Other,F,United Kingdom
+matching,211208-2,211208_1337_03,M,32.0,PhD,T,
+matching,211208-2,211208_1337_04,M,20.0,BSc,T,United Kingdom
+matching,211208-2,211208_1337_05,F,23.0,MA/MSc,F,United Kingdom
+matching,211208-2,211208_1337_06,M,20.0,BSc,F,United Kingdom
+matching,211208-2,211208_1337_07,M,27.0,MA/MSc,T,Thailand
+matching,211123-2,211123_1436_01,M,20.0,BSc,T,United Kingdom
+matching,211123-2,211123_1436_02,M,22.0,BSc,F,United Kingdom
+matching,211123-2,211123_1436_03,M,,MA/MSc,F,
+matching,211123-2,211123_1436_04,F,21.0,BSc,F,
+matching,211126-0,211126_1038_01,M,19.0,BSc,F,United Kingdom
+matching,211126-0,211126_1038_02,M,20.0,BSc,F,United Kingdom
+matching,211126-0,211126_1038_03,M,22.0,BSc,F,United Kingdom
+matching,211126-0,211126_1038_04,M,21.0,MA/MSc,F,United Kingdom
+matching,211126-0,211126_1038_05,M,20.0,BSc,T,United Kingdom
+matching,211126-0,211126_1038_06,F,19.0,BSc,F,United Kingdom
+matching,211125-2,211125_1443_01,M,18.0,BSc,T,United Kingdom
+matching,211125-2,211125_1443_02,M,19.0,BSc,T,United Kingdom
+matching,211125-2,211125_1443_03,M,19.0,BSc,T,United Kingdom
+matching,211125-2,211125_1443_04,F,19.0,BSc,T,United Kingdom
+matching,211125-2,211125_1443_05,F,20.0,BSc,F,United Kingdom
+matching,211125-2,211125_1443_06,F,21.0,BSc,F,United Kingdom
+matching,211124-1,211124_1046_01,F,19.0,BSc,F,
+matching,211124-1,211124_1046_02,F,25.0,PhD,F,United Kingdom
+matching,211124-1,211124_1046_03,M,18.0,BSc,F,United Kingdom
+matching,211124-1,211124_1046_04,M,18.0,,F,United Kingdom
+matching,211124-1,211124_1045_01,F,19.0,BSc,F,United Kingdom
+matching,211124-1,211124_1045_02,F,23.0,BSc,F,Mexico
+matching,211124-1,211124_1045_03,F,20.0,BSc,F,United Kingdom
+matching,211124-1,211124_1045_04,F,18.0,,F,
+matching,211124-1,211124_1045_05,M,19.0,BSc,F,United Kingdom
+matching,211124-1,211124_1045_06,M,21.0,INTO,T,Spain
+matching,211209-1,211209_0921_01,F,20.0,BSc,F,United Kingdom
+matching,211209-1,211209_0921_02,M,20.0,BSc,F,United Kingdom
+matching,211209-1,211209_0921_03,M,19.0,BSc,F,United Kingdom
+matching,211209-1,211209_0921_04,F,20.0,BSc,F,United Kingdom
+matching,211209-1,211209_0921_05,F,22.0,BSc,F,United Kingdom
+matching,211122-0,211122_1052_01,F,21.0,BSc,T,United Kingdom
+matching,211122-0,211122_1052_02,M,21.0,INTO,F,Spain
+matching,211122-0,211122_1052_03,F,22.0,BSc,F,Mexico
+matching,211122-0,211122_1052_04,F,23.0,BSc,F,United Kingdom
+matching,211122-0,211122_1052_05,F,20.0,BSc,T,United Kingdom
+matching,211122-0,211122_1052_06,F,20.0,BSc,T,United Kingdom
+matching,211122-0,211122_1052_07,F,18.0,BSc,F,United Kingdom
+matching,211122-0,211122_1052_08,M,25.0,BSc,F,South Africa
+matching,211122-0,211122_1052_09,M,20.0,BSc,F,United Kingdom
+matching,211122-0,211122_1052_10,,19.0,BSc,F,United Kingdom
+matching,211122-0,211122_1052_11,M,21.0,BSc,F,United Kingdom
+matching,211124-2,211124_1343_01,M,19.0,,,
+matching,211124-2,211124_1343_02,M,22.0,BSc,T,United Kingdom
+matching,211124-2,211124_1343_03,F,33.0,MA/MSc,F,Nigeria
+matching,211124-2,211124_1343_04,F,19.0,BSc,F,United Kingdom
+matching,211124-2,211124_1343_05,F,19.0,BSc,F,India
+matching,211124-2,211124_1343_06,F,18.0,BSc,F,United Kingdom
+matching,211124-2,211124_1342_01,M,21.0,BSc,F,United Kingdom
+matching,211124-2,211124_1342_02,M,20.0,BSc,F,United Kingdom
+matching,211124-2,211124_1342_03,F,18.0,BSc,F,United Kingdom
+matching,211124-2,211124_1342_04,F,20.0,BSc,F,United Kingdom
+matching,211125-1,211125_1140_01,M,20.0,BSc,F,United Kingdom
+matching,211125-1,211125_1140_02,F,19.0,BSc,F,Egypt
+matching,211125-1,211125_1140_03,M,23.0,BSc,F,United Kingdom
+matching,211125-1,211125_1140_04,F,19.0,BSc,F,
+matching,211125-1,211125_1140_05,F,19.0,BSc,F,United Kingdom
+matching,211125-1,211125_1140_06,M,18.0,BSc,F,United Kingdom
+matching,211209-2,211209_1423_01,M,21.0,BSc,F,United Kingdom
+matching,211209-2,211209_1423_02,M,20.0,BSc,T,United Kingdom
+matching,211209-2,211209_1423_03,F,18.0,BSc,F,United Kingdom
+matching,211209-2,211209_1423_04,F,27.0,PhD,F,United Kingdom

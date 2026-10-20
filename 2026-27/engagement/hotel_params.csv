@@ -1,0 +1,26 @@
+task_code,option,rating,distance,dominated,extreme
+H1,Hôtel Icône,7.4,0.5,0,0
+H1,Crystal Hôtel,8.7,1.4,0,0
+H1,Impérial Paris,9.1,2,0,0
+H1,Minerve Hôtel,6.2,0.2,0,0
+H1,Orchidée Paris,8.2,0.9,0,0
+H2,Barcelona Center,6.4,0.4,0,1
+H2,Barcelona Catedral,8.9,1.6,0,0
+H2,Urban Hotel,6.9,1.7,1,0
+H2,Hotel Royal,7,0.5,0,0
+H2,Catalonia Plaza,9,2.2,0,1
+H3E,Victoria Amsterdam,7.6,0.1,0,0
+H3E,Avenue Hotel,6.8,2.7,1,0
+H3E,Banks Hotel,7.9,2.6,0,1
+H3E,Urban Lodge,7.6,2.6,1,0
+H3E,Arena Amsterdam,6.7,0.1,1,0
+H3M,Electra Athens,7.3,0.3,0,0
+H3M,Pella Hostel,6.4,0.2,0,1
+H3M,Urban Western,8.7,2.2,0,1
+H3M,Royal Olympic,8.6,1.6,0,0
+H3M,Athos Athens,7.2,1.7,1,0
+H3D,Victoria Hotel,9.3,2,0,1
+H3D,Frankfurt Centrum,7,0.7,0,0
+H3D,Skyline Hotel,9.2,1.4,0,0
+H3D,Pearl Frankfurt,6.1,0.6,0,1
+H3D,Collection Frankfurt,6.9,1.5,1,0
